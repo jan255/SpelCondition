@@ -47,7 +47,6 @@ public class SpelConditionExample {
 //    BigDecimal xxValue = (BigDecimal) context.lookupVariable("xx");
 //    System.out.println("xx"+xxValue);
 //
-//
 //    BigDecimal insurancePartx = parser.parseExpression("#insurancePart + #x").getValue(context, BigDecimal.class);
 //    System.out.println("insurancePart "+ insurancePartx);
 //
